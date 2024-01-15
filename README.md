@@ -21,5 +21,4 @@ __
     + [**Hackerrank**](https://www.hackerrank.com/profile/rkmoropane)
     + [**GitLab**](https://gitlab.com/rkmoropane)
 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
