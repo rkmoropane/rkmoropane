@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Kholofelo Moropane.
 __
 
-- 🔭 I’m currently working on data engineering tasks at Umuzi Academy.
-- 🌱 I’m currently learning the following:
+- 🔭 I'm currently coding data engineering projects at Umuzi Academy."
+- 🌱 I’m learning the following:
     + Python programming,
     + SQL,
     + API Basics,
